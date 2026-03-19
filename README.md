@@ -25,7 +25,7 @@ Currently, as a Solutions Architect at [ZEDEDA](https://zededa.com), I help larg
 ## 🤝 Community & Media
 
 I am passionate about contributing knowledge back to the engineering community:
-* **Technical Writing:** Contributor to [*The New Stack*](https://thenewstack.io/author/kristopher-clark/) and pursuing technical review/editorial work for publications like *InfoQ*.
+* **Technical Writing:** Contributor to [*The New Stack*](https://thenewstack.io/author/kristopher-clark/).
 * **Conference Speaking:** I've presented at major industry events on IoT, edge computing, and telemetry. Check out my talks:
   * 🎤 [Understanding Containers at the Edge with ZEDEDA](https://www.youtube.com/watch?v=xzONB-NTgKg) 
   * 🎤 [Eclipse IoT in Action](https://www.youtube.com/watch?v=UELw9QrlDRI) 
