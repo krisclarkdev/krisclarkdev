@@ -73,7 +73,8 @@ I am passionate about contributing knowledge back to the engineering community:
 To verify my commits or send me an encrypted message, you can find me on [Keybase](https://keybase.io/krisclarkdev) or import my public PGP key directly from my domain:
 
 ```bash
-curl [https://kristopherclark.com/pgp.txt](https://kristopherclark.com/pgp.txt) | gpg --import
+curl https://kristopherclark.com/pgp.txt | gpg --import
+```
 
 <br>
 <sub>Kristopher Clark is a Solutions Architect specializing in EVE-OS, edge Kubernetes, and AI at the edge. Wikidata entity: Q138685504. All views are my own.</sub>
