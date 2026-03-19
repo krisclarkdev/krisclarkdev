@@ -70,64 +70,10 @@ I am passionate about contributing knowledge back to the engineering community:
 
 ## 🔐 Security & Identity
 
-If you need to send me an encrypted message or verify my commits, you can find me on [Keybase](https://keybase.io/krisclarkdev) or use my PGP public key below:
+To verify my commits or send me an encrypted message, you can find me on [Keybase](https://keybase.io/krisclarkdev) or import my public PGP key directly from my domain:
 
-<details>
-<summary><b>Click to view my PGP Public Key</b></summary>
-
-```text
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mQINBGmXJjkBEAC1ZBL7zwq2pqjqy3horBEL55J6hBGj98wamJgalONOufWRvhny
-RY3QEmnK2DI8DzvnJSoDM4MzTveIgZtKvF3Mi184pDopTdIIhlEgAaE8Kvd4/ygn
-fvBDrQeMDXLtwymcMfOAK7J7c2/2BwUHGyUpQwAOYFvrKlJeAFVcDjS30tfOMzmR
-zAcy0Oe0oW1kb3eUnLMv+aZRaKPncHxQYVHaOpUeycc0wjkAexmElEK0Olb1s9Bh
-idIAJn5A/sOu5tYR3wbcFrSrn0UvCssrrJl9T5kQB5akzBK/X8OvcTMqpHUQAuAk
-OvJNj1/t7X22fuc78UmPDnMi/Ul9uFa5dPdMQ8LHOn5RpzpvQsVcepZ5BZuxTL0F
-QKagLHKcr7iiY8n3+3WO596qqFB6+GI0Ep4U17zBDCl0LmxZBdX3ltrxv1w1qkFl
-Y9CpJwH2a4KSl1+23YfwHg87N8edHzeeREFMFhS6WLQ7lX/jeEqUUltxYl6wvPAT
-KmgQEy3fiFv5O1EFAoVomKwQs1UNmgtXx4L5bwNGOIjIV35RNJ3JCUyCsTEdYV7x
-x0jOuRdScsVB9HFaGA0Fv4Ho43XfaBWUAwHxHiCQiFS20CtHepmu8hadMt99lq1Q
-ItXK825B6Fe/sgPdwx2ZnQo3eSDfLwn7Xxfz0eBKUN9BQXq/D2RKwm72LQARAQAB
-tCtLcmlzdG9waGVyIENsYXJrIDxrcmlzY2xhcmtkZXZAa3Jpc2JveC5vcmc+iQJR
-BBMBCAA7FiEEaMMdSYKj8v1BJFJbEF7XlWlkEwwFAmmXKBUCGwMFCwkIBwICIgIG
-FQoJCAsCBBYCAwECHgcCF4AACgkQEF7XlWlkEwyYLBAAjrxCnd0SPV+QagdiELoC
-Bpp80FqVy9zwbLBMvK7yFXVesnVWvmU+MZybhipByN2CXcYXgwiCwSD16I953Ll9
-DGVJTwpBTwCYH6DuvF+zX4R28x1kWBNTHXbhD/hbyKkS7WzzPuqY/Z9ok2Zc1JzS
-gCG0RqXTg77EDlp/A7UUnYg4c5jU43myER6jA9K0N7rENzbGRyMROrEFJhMItrXL
-gVdbiP2zafQsaTkV8ub6dzVrUQ56P7VjeY1+Etnq1xtStDUPNR3ShPqox2HSCpxr
-XJb+m8PZDVTOTLZoXurAVf3JCEQo+in6hLGNzTiVCVOGGtjh3wK7pTbBAi9Bk35H
-KYbHA62p9yIdDOckCfe1xKhTiCxKP6POSeQ5QsLaJrlXB7784v+TtEa9J8qPh9Eu
-0sKAIXxUAAtTj2IJriAnbEoC60TV1VbFr7e7/r3SP+qLJ3syJVzD3yqM0kziWTMv
-7rMPCGdYf9aSzEMhcOG9EKfRfGEfm3SVlYK+E9g+BmpJuo/SEeiY/ao5EKzvtbDA
-/Ibq04v+z88BlRg06eaWQRZy5QC6DljO43rUGvcLwwKf74tm449V4sdz8D7GXThb
-UKFZE7i8WlOff0ItC8YJ0UDgbPKIAY9EBIxefwtR0WVaim5kxBe5oHj6TqpcYpqD
-XKX9ktODAFV7c8cn55zfDqu5Ag0EaZcmOQEQAJmzf/eUS96dvTT3LW7oa06in7A9
-YtvRYIOLdMcG2hQVE0yTw7VBm/hzCxwOuHAnzMU/EBQeohYXLNvYGSMPcfaKg6+L
-Rq+LRsR+KEkjy+S+EO5FrQMj5VGqDUpY5YDMJKMb/AGzY3xjz5LrOZz2NUyisjGC
-Tg465ISusq6RXmFPEaL78QPcQiP3gYfiPL4khhhbh5PR6+hH+wZj8gJvRCgsnj+f
-iuzaX25oX7/4MCT7cCwCyPR8+3buqj/mILcWHuLNgbM0iCo1sWy9d3uCOQ8nMIck
-U8JC2TUmzPRKFI03Ianf7beyg3WKZ3WVYaa4RoSbP7soXHOTI5EKrPXsRYbtfKv4
-005Emg317t4wPClZMxhuTliC3T4AcSm4PL1D6KnJncbKjjYzGZA3cRLsdjNAUG+5
-LXucll3s1Fdyp72q0SVYRxB668sAkWPn9FE9s7+Zv39zYwSmzky682n+P7CCtbcH
-O6gsMAtl9A1A0LWtWGv6WrcDraSjNaQb98R25MIdzxBLgEt5fWfrQKPS7pjgYwWi
-zQ9uojHZGw/W6zZl1muR3Jg++X6UkcjQJMVkdV7uvPi07Jy5ijD0jzB8dU3ranBc
-osWlqgW6h1w34SHZA60QhiadnVDv/oHBdblh1F8NkOC5h08+JiMgtiGTRkmG61LK
-SSIhV3kadeO8wi37ABEBAAGJAjYEGAEIACAWIQRowx1JgqPy/UEkUlsQXteVaWQT
-DAUCaZcmOQIbDAAKCRAQXteVaWQTDCfXD/4oYbIFPi6aa12kxdUyE/x6gFxGp3yz
-G05PoHWtbP4Jp16IfL1H3aiaieFXvyPAyaZdqL26JW2PdTIpim5HpBSXFd6LNMj5
-mNsYT3aID61f2sxbVgz1pzxj3Z054CVqUSkMkkuwms1TQ0RLDckl33i86fIcqP96
-ICulGIhEHuLR02pt/f1RdDsiC9kO1VVnxjIk4t8wPJbN1R/so8FhWd2bLYFiF2uD
-ebRkoHDJCflwr07zvYpGL3+62xMNDErnG1SRAcGpF0oi/ffLvuy2PNT2yJU432Cd
-+DShO5sHH2i7uhxMwbMoMWxo6L2rI8QwZGXNRMxCZvJjmwImErn2K+58Cj2hBkLd
-V/HtKiheVerX08A+f/whO87zblMjPDsmv/L4p3O0JuYLGX/SvWM5r1p06mzIN2el
-umgzZmjaRhEkQbfnhecJBF2IiBToQBdzgiD8p6097zkbd9tXvtZ3XuCj0U7mOr21
-hdkQWCj+ppJlaqJFQzPZUySDzJVgaJx5JZwr3wQCz9E0LhHHas6oLf8WqEkrm7K1
-wtKXzDBsmaRCl6QooYL5nOtIZ9cQ+oJNaTBMYrASiJ2zv59aBrjJEuCe6MkLNbk8
-Af2w0OW2GM5nn50Oi81BU7yWU+3MHLsORCRfU+Xuu5BB4lbekiZj/sn/CQDHiSJ1
-AoHbKj7qQnULsg==
-=fNXL
------END PGP PUBLIC KEY BLOCK-----
+```bash
+curl [https://kristopherclark.com/pgp.txt](https://kristopherclark.com/pgp.txt) | gpg --import
 
 <br>
 <sub>Kristopher Clark is a Solutions Architect specializing in EVE-OS, edge Kubernetes, and AI at the edge. Wikidata entity: Q138685504. All views are my own.</sub>
